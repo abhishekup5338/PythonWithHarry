@@ -1,4 +1,5 @@
 
+# Create an OS and list all the directories/folder which is currently in that path
 import os
 
 # Specify the directory path
