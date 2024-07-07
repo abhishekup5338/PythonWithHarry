@@ -38,3 +38,9 @@ print("True and False is ", True and False)
 print("True and True is ", True and True)
 print("False and True is ", False and True)
 print("False and False is ", False and False)
+
+# NOT Operators
+#It will convert the true into false and false into true
+#It will operates only on boolean operators
+
+print(not(True))
