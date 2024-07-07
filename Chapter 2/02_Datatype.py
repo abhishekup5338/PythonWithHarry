@@ -8,3 +8,4 @@ c = "abhi" # c is a string
 d = False # d is an boolean variable
 
 e = None # e is a none type variable
+
