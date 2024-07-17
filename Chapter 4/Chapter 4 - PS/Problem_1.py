@@ -24,5 +24,3 @@ fruits.append(f7)
 
 print(fruits)
 
-f1 = input("Enter fruit Name : ")
-fruits.append(f1)
