@@ -1,4 +1,4 @@
-
+a = {} #Empty dictionary
 marks = {
 
      "Abhi" : 100,
