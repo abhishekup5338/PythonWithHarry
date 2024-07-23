@@ -7,7 +7,7 @@ marks = {
      0: "Aniket"
 }
 
-# print(marks.items())  #Give key:value pairs in tuple form
+print(marks.items())  #Give key:value pairs in tuple form
 # print(marks.keys())
 # print(marks.values())
 marks.update({"Abhi": 99,"Amit":90}) #It will update current dict because it is mutable.
