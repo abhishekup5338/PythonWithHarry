@@ -6,5 +6,5 @@ for i in range(100):
 
 for i in range(1,50):
     if(i==31):
-        continue
+        continue #It will skip that value and continue the loop
     print(i)
