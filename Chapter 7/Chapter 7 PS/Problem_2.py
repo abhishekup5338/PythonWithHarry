@@ -2,6 +2,6 @@
 
 l = ["Abhi", "Sam", "anup", "Shiv", "Soham", "harry"]
 
-for name in l:
-    if(name.startswith("S")):
+for name in l: #logic
+    if(name.startswith("S")): 
         print(f"Hello {name}")
