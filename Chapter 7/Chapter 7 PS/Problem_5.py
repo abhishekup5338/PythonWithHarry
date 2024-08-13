@@ -1,4 +1,4 @@
-
+#Find the sum of given number
 n = int(input("Enter a number : "))
 
 i = 1
