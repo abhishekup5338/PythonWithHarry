@@ -1,10 +1,12 @@
+import random
+
 '''
 1 for snake
 -1 for water 
 0 for gun
 '''
 
-computer = -1
+computer = random.choice([-1, 0, 1])
 youstr = input("Enter your Choice : ")
 yourDict = {"s" : 1, "w" : -1, "g" : 0}
 reverseDict = {1 : "Snake", -1 : "Water", 0 : "Gun"}
