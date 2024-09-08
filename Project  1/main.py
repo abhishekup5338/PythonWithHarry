@@ -5,7 +5,7 @@
 '''
 
 computer = -1
-youstr = int(input("Enter your Choice : "))
+youstr = input("Enter your Choice : ")
 yourDict = {"s" : 1, "w" : -1, "g" : 0}
 reverseDict = {1 : "Snake", -1 : "Water", 0 : "Gun"}
 you = yourDict[youstr]
