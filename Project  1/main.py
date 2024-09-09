@@ -12,7 +12,7 @@ yourDict = {"s" : 1, "w" : -1, "g" : 0}
 reverseDict = {1 : "Snake", -1 : "Water", 0 : "Gun"}
 you = yourDict[youstr]
 
-#As of now we have 2 number (variable) Youstr and Computer.
+#As of now we have 2 number (variable) Youstr and Computer
 
 print(f"You chose {reverseDict[you]}\n Computer chose {reverseDict[computer]}")
 
