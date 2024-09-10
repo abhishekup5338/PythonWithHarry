@@ -13,6 +13,7 @@ reverseDict = {1 : "Snake", -1 : "Water", 0 : "Gun"}
 you = yourDict[youstr]
 
 #As of now we have 2 number (variable) Youstr and Computer
+#The below logic is return on the basis of computer - you
 
 print(f"You chose {reverseDict[you]}\n Computer chose {reverseDict[computer]}")
 
