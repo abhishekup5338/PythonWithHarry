@@ -9,4 +9,4 @@ f.close()
 with open("myfile.txt") as f:
     print(f.read())
 
-#You don't have to expilicitly close the file.
+#You don't have to expilicitly close the file
