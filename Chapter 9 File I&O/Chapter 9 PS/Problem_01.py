@@ -7,3 +7,5 @@ if('twinkle' in content):
 else:
     print("twinkle is not present in content")
 f.close()
+
+
