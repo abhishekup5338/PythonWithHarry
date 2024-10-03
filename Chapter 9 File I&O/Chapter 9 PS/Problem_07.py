@@ -1,5 +1,5 @@
 
-# .
+
 with open("log.html") as f:
     lines = f.read()
 
